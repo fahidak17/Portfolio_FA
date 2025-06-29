@@ -19,7 +19,7 @@ const Herosection = () => {
           </div> 
           <div className="image-container">
             <div className="background-shape"></div>
-            <img className="profile-picture" src={pic01} alt="Guru Cloud Engineer" />
+            <img className="profile-picture" src={pic01} alt="Fahid Business Analyst" />
             <img className="decorative-image" src={pic04} alt="Decorative Doodles" />
           </div>
           <div className="rating">
@@ -30,7 +30,7 @@ const Herosection = () => {
               <span>⭐</span>
               <span>⭐</span>
             </div>
-            <p>1+ Years Experience</p>
+            <p>2+ Years Experience</p>
           </div>
         </div>
       </div>
