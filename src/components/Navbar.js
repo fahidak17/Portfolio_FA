@@ -10,8 +10,8 @@ const Navbar = () => {
         <li className="nav-item"><a href="#services">Service</a></li>
       </ul>
       <div className="logo">
-        <span className="logo-icon">GS</span>
-        <span className="logo-text">Guru Subramaniam Shyamala</span>
+        <span className="logo-icon">FA</span>
+        <span className="logo-text">Fahid Akthar Ansar</span>
       </div>
       <ul className="nav-links">
         <li className="nav-item"><a href="">Resume</a></li>

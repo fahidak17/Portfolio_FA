@@ -30,7 +30,7 @@ const Contact = () => {
           🏆 <span>5+ Winning Awards</span>
         </div>
         <div className="achievement">
-          ✔️ <span>Certified Cloud Engineer</span>
+          ✔️ <span>Certified Software Engineer</span>
         </div>
       </div>
     </section>

@@ -4,19 +4,20 @@ import background from "../assets/pic11.png";
 
 const testimonials = [
   {
-    name: "Jayesh Patil",
-    role: "Owner, Aura",
-    rating: 5.0,
-    review:
-      "Guru delivered a transformative cloud strategy for our organization, migrating our legacy systems to a robust multi-cloud setup. His expertise in designing scalable infrastructure and automating our processes with Terraform reduced our operational costs by 30%. Guru's approach is seamless, professional, and aligned with business objectives. Highly recommend his services!",
-  },
-  {
-    name: "Andrew",
-    role: "Manager, Care & Cure",
+    name: "Thamba Meshache",
+    role: "HOD, Department of Computer Science, Prathyusha Engineering College.",
     rating: 4.8,
     review:
-      "Working with Guru was a game-changer for our cloud operations. He designed a fault-tolerant architecture that improved our system uptime by 99.9%. His implementation of Kubernetes-based CI/CD pipelines streamlined our deployments, saving us countless hours. His attention to detail and ability to deliver under tight deadlines is unparalleled. A true cloud expert!",
+      "Fahid is a sharp, dedicated student with strong technical and analytical skills. In my Computer Networking and Mobile Computing classes, he impressed me with his curiosity and up-to-date knowledge. Under my guidance, he completed an image classification project using deep learning, showing excellent practical ability. I rank him among the top 10% of his class and highly recommend him for further studies and professional roles.",
   },
+  {
+    name: "Varunbharathi Janardhanam",
+    role: "Manager, HCL Technologies",
+    rating: 5.0,
+    review:
+      "Fahid is an enthusiastic, dedicated, and highly capable professional who consistently exceeds expectations. His strong technical skills, proactive mindset, and supportive nature make him a valued team member. With a proven track record of delivering quality results and improving processes, Fahid has the drive and potential to excel in any field he chooses. I strongly recommend him for further studies and future opportunities.",
+  },
+ 
 ];
 
 const Testimonials = () => {

@@ -10,12 +10,12 @@ const Herosection = () => {
         <div className="top-content">
           <div className="greeting">Hello!</div>
           <h1>
-            I'm <span>Fahid</span>, <br /> Cloud Engineer
+            I'm <span>Fahid</span>, <br /> Software Engineer
           </h1>
         </div>
         <div className="main-content">
           <div className="testimonial">
-            "Guru's exceptional architecture design ensured high availability for our website."
+            "Fahid's exceptional architecture design ensured high availability for our website."
           </div> 
           <div className="image-container">
             <div className="background-shape"></div>

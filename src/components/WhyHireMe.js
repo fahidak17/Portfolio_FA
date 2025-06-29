@@ -26,8 +26,7 @@ const WhyHireMe = () => {
             Why <span>Hire me?</span>
           </h2>
           <p className="description">
-          I'm an exceptional Cloud Architect, certified in AWS, GCP, and Terraform, with a proven track record of delivering scalable, secure, and cost-effective cloud solutions that stand out in the industry.
-          </p>
+          I’m a skilled engineer with strong experience in software development and automation, now expanding my expertise through an MSc in Business Analytics. I combine technical excellence with data-driven business insight to deliver practical, high-impact solutions and support strategic decision-making.          </p>
           <div className="stats">
             <div className="stat-item">
               <h3>20</h3>

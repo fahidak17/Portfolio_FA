@@ -4,11 +4,18 @@ import "./WorkExperience.css";
 const WorkExperience = () => {
   const experiences = [
     {
-      company: "Vosyn",
-      duration: "April 2024 - Present",
-      role: "Cloud Engineer",
-      description: "Designed and implemented scalable cloud infrastructure across AWS and GCP. Automated deployments using Terraform and GitHub Actions, migrated services to GKE, and configured load balancers for high availability. Enhanced security with IAM policies and integrated monitoring with Cloud Monitoring and Grafana.",
+      "company": "HCL Technologies",
+      "duration": "January 2023 - December 2024",
+      "role": "Software Engineer",
+      "description": "Led development and testing for medical device applications (Abbott Vascular), defining requirements, test strategies, and documentation. Automated workflows using Python and TestComplete to improve efficiency. Managed a small team, mentored peers, and collaborated closely with clients to ensure product quality. Key project: Built D-Bus services for sensor data transmission and integrated XML/JSON handling with unit testing in Google Test."
     },
+    {
+      "company": "HCL Technologies",
+      "duration": "August 2022 - December 2022",
+      "role": "Graduate Engineer",
+      "description": "Developed IP communication functionality in C/C++ on Ubuntu for medical systems, and contributed to GUI testing for the Wolf-Ridge project using PTC test cases. Delivered technical presentations on C/C++ concepts, documented and analyzed test cases in Excel, and supported reporting workflows to improve quality and performance."
+    }
+    
     // {
     //   company: "Verisk",
     //   duration: "Mar 2024 - Present",
